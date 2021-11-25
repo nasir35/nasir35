@@ -75,7 +75,7 @@
 
 <img  width="550px"  alt="Md Nasir Ahmed's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=nasir35&show_icons=true"/>
 
-  
+![Md Nasir Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasir35)](https://github.com/nasir35/nasir35)
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nasir35&card_width=550)](https://github.com/nasir35/nasir35)
 
