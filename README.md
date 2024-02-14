@@ -9,10 +9,7 @@
 
 - 🌱 I’m currently learning MERN stack development. 🥰
 
-- 🥅 2021 Goals: React, MongoDB, Node js, Data structure.
-
-- ⚡ Fun fact: I love to Explore the world
-
+- 🥅 2024 Goals: Redux, Nextjs, Data structure, socket.io.
   
 
 ### Connect with me:
