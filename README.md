@@ -1,9 +1,9 @@
 
-### Hi there, I'm [Nasir Ahmed][website] 👋
+### Hi there, I'm Md Nasir Ahmed [[website](https://dev-nasir.netlify.app/)] 👋
 
   
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+## I'm a MERN Stack Developer💻💻!
 
 - 🔭 I’m currently Looking for a Teamwork!
 
